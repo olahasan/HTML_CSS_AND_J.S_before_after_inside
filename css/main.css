@@ -1,0 +1,25 @@
+img {
+    width: 100px;
+    display: block;
+    margin-top: 5px;
+}
+
+#container {
+    width: 100px;
+    height: 88.89px;
+    background-color: red;
+    position: relative;
+    left: 19%;
+    top: -10px;
+}
+
+.big {
+    background-color: gray;
+    width: fit-content;
+    text-align: center;
+    margin: 230px auto;
+}
+
+.small {
+    padding: 20px 0 0 0;
+}
